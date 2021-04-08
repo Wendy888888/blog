@@ -1,5 +1,5 @@
 aliyun-python-sdk-core==2.13.15
-Django==2.2
+Django==2.2.20
 django-ranged-response==0.2.0
 django-redis==4.11.0
 django-simple-captcha==0.5.12
